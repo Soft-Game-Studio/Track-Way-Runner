@@ -86,9 +86,9 @@ We are just getting started! Here is what you can expect in future releases:
 
 > *Add gameplay screenshots in the `/screenshots` folder.*
 
-| Main Menu | Gameplay | Rewards |
+| Main Menu | Gameplay | Game Over |
 | :---: | :---: | :---: |
-| ![Menu](https://via.placeholder.com/200x350?text=Menu+Screen) | ![Play](https://via.placeholder.com/200x350?text=Gameplay+1) | ![Win](https://via.placeholder.com/200x350?text=Gameplay+2) |
+| ![Menu](<image src="./Game.jpeg">) | ![Play]() | ![Game Over]() |
 
 ---
 
