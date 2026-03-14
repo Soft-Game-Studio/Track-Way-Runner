@@ -88,7 +88,7 @@ We are just getting started! Here is what you can expect in future releases:
 
 | Main Menu | Gameplay | Game Over |
 | :---: | :---: | :---: |
-| ![Menu](<image src="./Game.jpeg">) | ![Play]() | ![Game Over]() |
+| ![Menu](Game.jpeg) | ![Play](Gameplay.jpeg) | ![Game Over](GameOver.jpeg) |
 
 ---
 
